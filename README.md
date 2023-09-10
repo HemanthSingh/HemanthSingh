@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HemanthSingh
 - 👀 I’m interested in technology solutions
-- 🌱 I’m currently working on stairlifts 
+- 🌱 I’m currently working on PAS5500 at ASML 
 - 💞️ I’m looking to collaborate on fixed-point arithematic library 
 - 📫 How to reach me email hemanthsingh.in@gmail.com
 
